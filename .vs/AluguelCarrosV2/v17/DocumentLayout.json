@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\service\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\service\\carroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\inteface\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\inteface\\repository\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\inteface\\repository\\icarrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\inteface\\repository\\icarrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\repository\\carrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\repository\\carrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\inteface\\service\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\inteface\\service\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\inteface\\service\\icarroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\inteface\\service\\icarroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\model\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\model\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|c:\\desenvolvimento\\api\u00B4s c#\\aluguelcarrosv2\\aluguelcarrosv2\\controller\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70542CC-77A1-4F91-8902-FEF171E8FC7A}|AluguelCarrosV2\\AluguelCarrosV2.csproj|solutionrelative:aluguelcarrosv2\\controller\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\appsettings.json",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\appsettings.json",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\appsettings.json",
+              "RelativeToolTip": "AluguelCarrosV2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T19:28:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarroService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Service\\CarroService.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Service\\CarroService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Service\\CarroService.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Service\\CarroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:17:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Service\\IClienteService.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Inteface\\Service\\IClienteService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Service\\IClienteService.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Inteface\\Service\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:17:06.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Repository\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Inteface\\Repository\\IClienteRepository.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Repository\\IClienteRepository.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Inteface\\Repository\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:16:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarroRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Repository\\ICarroRepository.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Inteface\\Repository\\ICarroRepository.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Repository\\ICarroRepository.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Inteface\\Repository\\ICarroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:16:53.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Data\\SqlContext.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Data\\SqlContext.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Data\\SqlContext.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Data\\SqlContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:16:43.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarroRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Repository\\CarroRepository.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Repository\\CarroRepository.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Repository\\CarroRepository.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Repository\\CarroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:16:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Program.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Program.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Program.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:31:49.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarroService.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Service\\ICarroService.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Inteface\\Service\\ICarroService.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Inteface\\Service\\ICarroService.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Inteface\\Service\\ICarroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:17:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Model\\Cliente.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Model\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:08:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Model\\Carro.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Model\\Carro.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Model\\Carro.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Model\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:08:52.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Controller\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Controller\\ClienteController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Controller\\ClienteController.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Controller\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:15:12.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarroController.cs",
+              "DocumentMoniker": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Controller\\CarroController.cs",
+              "RelativeDocumentMoniker": "AluguelCarrosV2\\Controller\\CarroController.cs",
+              "ToolTip": "C:\\Desenvolvimento\\API\u00B4s C#\\AluguelCarrosV2\\AluguelCarrosV2\\Controller\\CarroController.cs",
+              "RelativeToolTip": "AluguelCarrosV2\\Controller\\CarroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:15:10.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
